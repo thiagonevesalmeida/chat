@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat Challenge</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://unpkg.com/phosphor-icons"></script>
+</head>
+<body>
+    <div id="app">
+        <header id="top">
+            <div id="user-info">
+                <img src="https://randomuser.me/api/portraits/women/50.jpg" alt="Imagem do perfil do contato">
+                <div id="user-status">
+                    <strong>Cecilia Sassaki</strong>
+                    <div class="status">
+                        Online
+                    </div>
+                </div>
+            </div>
+            <div id="close">
+                <i class="ph-x"></i>
+            </div>
+        </header>
+        <main id="messages-feed">
+            <div class="last-view">Hoje 11:30</div>
+            <div class="messages">
+                <div class="message">
+                    <div class="top">Cecilia - </div>
+                    <p class="body">Tive uma ideia incrível para um projeto! 😍</p>
+                </div>
+                <!-- <div class="message user">
+                    <div class="top">Você - 11:32</div>
+                    <p class="body">Sério? Me conta mais.</p>
+                </div> -->
+                <div id="message2" class="message">
+                    <div class="top">Cecilia - </div>
+                    <p class="body">E se a gente fizesse um chat moderno e responsivo em apenas uma semana?</p>
+                </div>
+                <!-- <div class="message user">
+                    <div class="top">Você - 11:36</div>
+                    <p class="body"><strong>#boraCodar!</strong> 🚀</p>
+                </div> -->
+            </div>
+        </main>
+        <form id="bottom">
+            <input type="text" placeholder="Digite sua mensagem">
+            <button>
+                <i class="ph-paper-plane-right-fill"></i>
+            </button>
+        </form>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
