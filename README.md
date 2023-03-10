@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img alt="calendario da copa" src=".github/preview.png" width="100%"> 📱📨
+  <img alt="calendario da copa" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
