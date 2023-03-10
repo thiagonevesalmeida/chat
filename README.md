@@ -41,4 +41,4 @@ Esse projeto está sob a licença MIT.
 
 thiagonevesdealmeida@gmail.com
 
-[linkedin.com/in/thiagonevesdealmeida](https://www.linkedin.com/in/thiagonevesdealmeida/)
+[linkedin.com/in/thiagonevesdealmeida](https://www.linkedin.com/in/thiagonevesdealmeida/) 
