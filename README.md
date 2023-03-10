@@ -1,11 +1,11 @@
 <h1 align="center">Chat</h1>
-<p align="center">Projetando um chat no desafio <strong>#boracodar</strong> 🚀</p>
+<p align="center">Projetando um Chat no desafio <strong>#boracodar</strong> 🚀</p>
 <p align="center">
     <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#memo-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#">Contato</a>
+    <a href="#-contato">Contato</a>
 </p><br>
 
 <p align="center">
@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto de um chat interativo, propostos pela RocketSeat no desafio #boraCodar 🚀. Você pode acessar o projeto online [CLICANDO AQUI](https://thiagonevesalmeida.github.io/chat/).
+Projeto de um chat interativo propostos pela RocketSeat no desafio #boraCodar 🚀. Você pode acessar o projeto online [CLICANDO AQUI](https://thiagonevesalmeida.github.io/chat/).
 
 ## 🔖 Layout
 
