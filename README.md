@@ -27,7 +27,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto de um chat interativo propostos pela RocketSeat no desafio #boraCodar 🚀. Você pode acessar o projeto online [CLICANDO AQUI](https://thiagonevesalmeida.github.io/chat/).
+Projeto de um chat interativo propostos pela RocketSeat no desafio #boraCodar 🚀.
+
+- [Visite o projeto online](https://thiagonevesalmeida.github.io/chat/)
 
 ## 🔖 Layout
 
